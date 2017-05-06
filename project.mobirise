@@ -313,28 +313,36 @@
           "button2": "<a data-app-btn=\"true\" href=\"http://www.pousadavaledamata.com.br/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VISITE O SITE</a>",
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title3": "Web Fonts",
-          "subtitle3": "Preço: $$$",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "title3": "Em breve",
+          "subtitle3": "Preço: ?",
+          "caption3": "Nova sugestão em breve.",
+          "button3": "<a data-app-btn=\"true\" href=\"nicgui.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">DAQUI A POUCO TEM MAIS</a>",
           "media4": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title4": "Unlimited Sites",
-          "subtitle4": "Preço: $$$$",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "title4": "Em breve",
+          "subtitle4": "Preço: ?",
+          "caption4": "Nova sugestão em breve.",
+          "button4": "<a data-app-btn=\"true\" href=\"nicgui.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">DAQUI A POUCO TEM MAIS</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -358,7 +366,12 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            "H5": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_inherit": "features3",
@@ -387,7 +400,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "iconFont": {
@@ -448,7 +461,7 @@
           },
           "title4": "PASSEIO!!!",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "APROVEITE! Visite! O lugar é MARAVILHOSOOOOOOO! E se prepara que vai estar frio!",
+          "caption4": "APROVEITE! Visite! O lugar é MARAVILHOSOOOOOOO! E se prepara que vai estar frio!<br><br><b><i>http://www.guiaazul.tur.br</i></b><br>",
           "button4": "<a data-app-btn=\"true\" href=\"http://www.guiaazul.tur.br\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
           "media5": {
             "iconFont": {
