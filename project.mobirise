@@ -92,23 +92,6 @@
           "text": "Copyright (c) 2016 Mobirise."
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "map2",
-          "_anchor": "map2-c",
-          "_params": {
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "bgColor": "#fff",
-            "googleMap": {
-              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
-              "address": "350 5th Ave, New York, NY 10118",
-              "state": "ok"
-            }
-          }
-        },
-        {
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
