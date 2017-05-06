@@ -281,28 +281,36 @@
           },
           "media1": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/lagodalua-600x401.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title1": "Pousada Lago da Lua",
           "subtitle1": "Preço: $$",
           "caption1": "Rodovia Geraldo Sartório Km 7, S/N<br>São Paulo do Aracê, Domingos Martins - ES<br>&nbsp;(27) 3248-2327 | (27) 99264-8511<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"http://lagodalua.com.br/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"http://lagodalua.com.br/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VISITE O SITE</a>",
           "media2": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mata-600x384.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title2": "Pousada Vale da Mata",
           "subtitle2": "Preço: $$",
           "caption2": "Rota do Lagarto, km 07, Pedra Azul, <br>Domingos Martins, ES<br>(27) 3248-2143 | (27) 99262-9047<br><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"http://www.pousadavaledamata.com.br/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://www.pousadavaledamata.com.br/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VISITE O SITE</a>",
           "media3": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
@@ -383,12 +391,14 @@
           },
           "media1": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "desktop",
+              "linkInNewWindow": false,
+              "name": "idea",
+              "family": "MobiriseIcons",
+              "active": true,
               "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
+              "size": "",
+              "newWindow": false
             }
           },
           "title1": "Se prepare! Agulhas!!",
@@ -397,12 +407,13 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "mobile",
+              "linkInNewWindow": false,
+              "name": "paper-plane",
+              "family": "MobiriseIcons",
+              "active": true,
               "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
+              "size": 0
             }
           },
           "title2": "Passagem adiantada, Bolso à salvo",
@@ -411,12 +422,13 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "pencil",
+              "linkInNewWindow": false,
+              "name": "home",
+              "family": "MobiriseIcons",
+              "active": true,
               "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
+              "size": 0
             }
           },
           "title3": "Hotel em lugar turístico acaba logo",
@@ -425,12 +437,13 @@
           "button3": "<a data-app-btn=\"true\" href=\"index.html#features3-9\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "global",
+              "linkInNewWindow": false,
+              "name": "pin",
+              "family": "MobiriseIcons",
+              "active": true,
               "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
+              "size": 0
             }
           },
           "title4": "PASSEIO!!!",
