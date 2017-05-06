@@ -281,7 +281,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/lagodalua-600x401.png",
+              "src": "@PROJECT_PATH@/assets/images/lagodalua-600x397.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -297,7 +297,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"http://lagodalua.com.br/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VISITE O SITE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mata-600x384.png",
+              "src": "@PROJECT_PATH@/assets/images/mata-600x384.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
