@@ -101,7 +101,8 @@
             ".mbr-section-title": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "48px"
+              "font-size": "48px",
+              "color": "#ffffff"
             },
             ".lead P": {
               "font-family": "'Lora', serif",
@@ -119,7 +120,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1339.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1339.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -127,8 +128,8 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.5",
-            "overlayColor": "#222",
+            "overlayOpacity": "0.4",
+            "overlayColor": "#c0a375",
             "showTitle": true,
             "showText": true,
             "showButton": false
