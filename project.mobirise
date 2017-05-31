@@ -349,7 +349,7 @@
           "title4": "Pousada Caminho das Flores",
           "subtitle4": "Preço: 200 com café da manhã",
           "caption4": "Rodovia ES 164 (Geraldo Sartorio) km 72, Pedra azul, Aracê, Domingos Martins-ES<br>(28) 99977-7074 / (27) 99986-8819<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"nicgui.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">DAQUI A POUCO TEM MAIS</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"http://es.olx.com.br/norte-do-espirito-santo/temporada/pousada-caminho-das-flores-293181894\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VISITE O SITE</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
