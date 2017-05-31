@@ -23,7 +23,9 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 13,
-    "versionPublish": "3.12.1"
+    "versionPublish": "3.12.1",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -256,6 +258,11 @@
             "Theme"
           ],
           "_name": "features3",
+          "_styles": {
+            "H5": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "features3-9",
           "_params": {
             "paddingTop": "1",
@@ -292,7 +299,7 @@
             }
           },
           "title1": "Pousada Lago da Lua",
-          "subtitle1": "Preço: $$",
+          "subtitle1": "Preço: 350 com café da manhã",
           "caption1": "Rodovia Geraldo Sartório Km 7, S/N<br>São Paulo do Aracê, Domingos Martins - ES<br>&nbsp;(27) 3248-2327 | (27) 99264-8511<br>",
           "button1": "<a data-app-btn=\"true\" href=\"http://lagodalua.com.br/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VISITE O SITE</a>",
           "media2": {
@@ -308,12 +315,12 @@
             }
           },
           "title2": "Pousada Vale da Mata",
-          "subtitle2": "Preço: $$",
+          "subtitle2": "Preço: 280 com café da manhã",
           "caption2": "Rota do Lagarto, km 07, Pedra Azul, <br>Domingos Martins, ES<br>(27) 3248-2143 | (27) 99262-9047<br><br>",
           "button2": "<a data-app-btn=\"true\" href=\"http://www.pousadavaledamata.com.br/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VISITE O SITE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/aroso-paco-hotel-600x383.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -323,13 +330,13 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "Em breve",
-          "subtitle3": "Preço: ?",
-          "caption3": "Nova sugestão em breve.",
-          "button3": "<a data-app-btn=\"true\" href=\"nicgui.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">DAQUI A POUCO TEM MAIS</a>",
+          "title3": "Aroso Paço Hotel<br>",
+          "subtitle3": "Preço: 367 com pensão completa",
+          "caption3": "Rod. BR-262, km 89, S/n - Pedra Azul, Domingos Martins - ES, 29278-000<br>(27) 3248-1147<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.aroso.com.br/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">NOSSA SUGESTÃO</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/844717003867242-600x450.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -339,9 +346,9 @@
               "linkInNewWindow": false
             }
           },
-          "title4": "Em breve",
-          "subtitle4": "Preço: ?",
-          "caption4": "Nova sugestão em breve.",
+          "title4": "Pousada Caminho das Flores",
+          "subtitle4": "Preço: 200 com café da manhã",
+          "caption4": "Rodovia ES 164 (Geraldo Sartorio) km 72, Pedra azul, Aracê, Domingos Martins-ES<br>(28) 99977-7074 / (27) 99986-8819<br>",
           "button4": "<a data-app-btn=\"true\" href=\"nicgui.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">DAQUI A POUCO TEM MAIS</a>",
           "media5": {
             "image": {
@@ -366,12 +373,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            "H5": {
-              "text-align": "center"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_inherit": "features3",
