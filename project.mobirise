@@ -9,23 +9,21 @@
         "primaryColor": "#c0a375",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
-        "infoColor": "#7e9b9f",
+        "infoColor": "#f7da64",
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
-        "isRoundedButtons": false,
+        "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 13,
-    "versionPublish": "3.12.1",
-    "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "uniqCompNum": 14,
+    "versionPublish": "3.12.1"
   },
   "pages": {
     "index.html": {
@@ -101,8 +99,7 @@
             ".mbr-section-title": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "48px",
-              "color": "#ffffff"
+              "font-size": "48px"
             },
             ".lead P": {
               "font-family": "'Lora', serif",
@@ -120,7 +117,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1339.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1339.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -128,8 +125,8 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.4",
-            "overlayColor": "#c0a375",
+            "overlayOpacity": "0.5",
+            "overlayColor": "#78613b",
             "showTitle": true,
             "showText": true,
             "showButton": false
@@ -137,6 +134,67 @@
           "title": "AI CARAMBA! <br>A data tá marcada!",
           "text": "<p>04 de Novembro de 2017 </p><p>às 17h 30min</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-d",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/aroso-pao-hotel-pedra-azul-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Casório",
+          "text": "<b><i>Aroso Paço Hotel</i></b><br>Rod. BR-262, km 89, S/n - Pedra Azul, Domingos Martins - ES, 29278-000<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://www.aroso.com.br/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VISITE O SITE</a>",
+          "_styles": {
+            "P": {
+              "font-size": "23px"
+            },
+            "I": {
+              "font-size": "23px"
+            }
+          }
         },
         {
           "_tags": [
@@ -151,7 +209,7 @@
           "_anchor": "msg-box5-4",
           "_params": {
             "imageSize": 50,
-            "paddingTop": 0,
+            "paddingTop": "1",
             "paddingBottom": 0,
             "parallax": true,
             "bgImageRadio": false,
@@ -174,7 +232,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/20150808-1400x1057.jpg",
+              "src": "@PROJECT_PATH@/assets/images/alecrim-1400x936.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -192,7 +250,7 @@
               "size": 0
             }
           },
-          "title": "Casório e Festinha",
+          "title": "Festinha",
           "text": "<b style=\"font-size: 23px; line-height: 1.5;\"><i>Restaurante Alecrim Cozinha Artesanal</i></b><br>Rodovia Geraldo Sartório, s/n <br>São Paulino do Araci, Domingos Martins - ES, <br>CEP 29278-000",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -208,7 +266,7 @@
           "_name": "header3",
           "_anchor": "header3-8",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "1",
             "paddingBottom": 1,
             "bgColor": "#fff",
             "showMeta": false
@@ -289,7 +347,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/lagodalua-600x397.jpg",
+              "src": "@PROJECT_PATH@/assets/images/lagodalua-600x384.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -321,7 +379,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"http://www.pousadavaledamata.com.br/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VISITE O SITE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/aroso-paco-hotel-600x383.jpg",
+              "src": "@PROJECT_PATH@/assets/images/aroso-pao-hotel-600x385.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -331,13 +389,13 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "Aroso Paço Hotel<br>",
+          "title3": "Aroso Paço Hotel",
           "subtitle3": "Preço: 367 com pensão completa",
           "caption3": "Rod. BR-262, km 89, S/n - Pedra Azul, Domingos Martins - ES, 29278-000<br>(27) 3248-1147<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://www.aroso.com.br/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">NOSSA SUGESTÃO</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.aroso.com.br/\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">NOSSA RECOMENDAÇÃO</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/844717003867242-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/236706019752023-600x384.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -350,7 +408,7 @@
           "title4": "Pousada Caminho das Flores",
           "subtitle4": "Preço: 200 com café da manhã",
           "caption4": "Rodovia ES 164 (Geraldo Sartorio) km 72, Pedra azul, Aracê, Domingos Martins-ES<br>(28) 99977-7074 / (27) 99986-8819<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"http://es.olx.com.br/norte-do-espirito-santo/temporada/pousada-caminho-das-flores-293181894\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VISITE O SITE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"http://es.olx.com.br/norte-do-espirito-santo/temporada/pousada-caminho-das-flores-348478469\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VISITE O ANUNCIO</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
