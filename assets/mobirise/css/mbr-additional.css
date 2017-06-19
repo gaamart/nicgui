@@ -460,3 +460,22 @@ h6,
 #features3-9 H5 {
   text-align: center;
 }
+#header3-g .mbr-section-title,
+#header3-g .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-g SMALL {
+  font-size: 23px;
+  text-align: right;
+  color: #6e6e6e;
+}
+#header3-j .mbr-section-title,
+#header3-j .mbr-section-subtitle {
+  text-align: center;
+}
+#features6-i H4 {
+  font-size: 23px;
+}
+#features6-i P {
+  font-size: 20px;
+}
