@@ -576,7 +576,7 @@
             "showMeta": true
           },
           "title": "Presentes? Melhor! Experiências",
-          "meta": "A casa já ta montada, então pra quê presente? Melhor que isso, ajude a gente a ter a melhor experiência de nossas vidas em cacún!<br>A passagem já ta comprada! Mas quem gosta de ficar só em hotel? Olha esses passeios incríveis!!"
+          "meta": "A casa já ta montada, então pra quê presente? Melhor que isso, ajude a gente a ter a melhor experiência de nossas vidas em Cancún!<br>A passagem já ta comprada! Mas quem gosta de ficar só em hotel? Olha esses passeios incríveis!!"
         },
         {
           "_tags": [
@@ -587,10 +587,10 @@
             "autoplay": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "timeout": "3",
+            "timeout": "5",
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/cenote-dos-ojos-4-2000x913.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -599,9 +599,9 @@
                 "showTitle": true,
                 "title": "Cenote dos Ojos",
                 "showText": true,
-                "text": "Mergulho dentro das formações subterrâneas submersas em Cancún, descubra os mistérios das cavernas.<br>???",
+                "text": "Mergulho dentro das formações subterrâneas submersas em Cancún, descubra os mistérios das cavernas.<br>R$600",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://mpago.la/AwtK\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">No Cartão</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://mpago.la/u8JL\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Botãozinho pro Cartão</a> "
               },
               {
                 "active": false,
@@ -613,9 +613,9 @@
                 "showTitle": true,
                 "title": "Chichen Itzá",
                 "showText": true,
-                "text": "Passeio pelas Ruínas da antiga capital Maia.<br>???",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "text": "Passeio pelas Ruínas da antiga capital Maia.<br>R$200",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://mpago.la/wlm\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Botãozinho pro Cartão</a> "
               },
               {
                 "active": false,
@@ -627,9 +627,9 @@
                 "showTitle": true,
                 "title": "Mergulho Marinho",
                 "showText": true,
-                "text": "Faça um mergulho nos recifes de corais e conheça a vida submarina<br>???",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "text": "Faça um mergulho nos recifes de corais e conheça a vida submarina<br>R$800",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://mpago.la/wtB9\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Botãozinho pro Cartão</a> "
               },
               {
                 "active": false,
@@ -641,9 +641,9 @@
                 "showTitle": true,
                 "title": "Ik Kil",
                 "showText": true,
-                "text": "Conheça e nade no Cenote mais famoso de Cancún.<br>???",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "text": "Conheça e nade no Cenote mais famoso de Cancún.<br>R$250",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://mpago.la/sxJW\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Botãozinho pro Cartão</a> "
               },
               {
                 "active": false,
@@ -655,9 +655,9 @@
                 "showTitle": true,
                 "title": "Isla Mujeres",
                 "showText": true,
-                "text": "Nade entre as águas quentes e cristalinas nesse passeio paradisíaco.<br>???",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "text": "Nade entre as águas quentes e cristalinas nesse passeio paradisíaco.<br>R$300",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://mpago.la/yWru\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Botãozinho pro Cartão</a> "
               },
               {
                 "active": false,
@@ -669,23 +669,9 @@
                 "showTitle": true,
                 "title": "Museu Submarino de Cancun",
                 "showText": true,
-                "text": "Museu submarino com mais de 500 estátuas que celebra a convivência da arte do homem com a arte da natureza.<br>Maior Museu Submerso do Mundo.<br>Passeio com barco.<br>???",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/museu-submarino-de-cancun-3-2000x1333.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "Museu Submarino de Cancun",
-                "showText": true,
-                "text": "Museu submarino com mais de 500 estátuas que celebra a convivência da arte do homem com a arte da natureza.<br>Passeio com mergulho, veja as estátuas de perto.<br>Maior Museu Submerso do Mundo.<br>???<br>",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "text": "Museu submarino com mais de 500 estátuas que celebra a convivência da arte do homem com a arte da natureza.<br>Maior Museu Submerso do Mundo.<br>R$900",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://mpago.la/OyHX\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Botãozinho pro Cartão</a> "
               },
               {
                 "active": false,
@@ -697,9 +683,9 @@
                 "showTitle": true,
                 "title": "Passeio com Golfinhos",
                 "showText": true,
-                "text": "Nade e brinque com os golfinhos.<br>???",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "text": "Nade e brinque com os golfinhos.<br>R$500",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://mpago.la/i1IX\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Botãozinho pro Cartão</a> "
               },
               {
                 "active": false,
@@ -711,9 +697,9 @@
                 "showTitle": true,
                 "title": "Menu desgustação com estrelas Michelin",
                 "showText": true,
-                "text": "Alimento para o corpo e para a Alma, menu com 10 pratos da entrada à sobremesa.<br>???",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "text": "Alimento para o corpo e para a Alma, menu com 10 pratos da entrada à sobremesa.<br>R$1000",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://mpago.la/17Ze\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Botãozinho pro Cartão</a> "
               },
               {
                 "active": false,
@@ -725,12 +711,12 @@
                 "showTitle": true,
                 "title": "Spa Completo",
                 "showText": true,
-                "text": "Massagem e tratamento completo para um dia relaxante à dois.<br>???",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "text": "Massagem e tratamento completo para um dia relaxante à dois.<br>R$400",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://mpago.la/a3rt\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Botãozinho pro Cartão</a> "
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/tulum-4-2000x1041.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -739,9 +725,9 @@
                 "showTitle": true,
                 "title": "Tulum",
                 "showText": true,
-                "text": "Ruína Maia de uma cidade murada, um ponto de defesa estratégico<br>???",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "text": "Ruína Maia da cidade de verão dos imperadores<br>R$150",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"http://mpago.la/DSYF\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Botãozinho pro Cartão</a> "
               }
             ],
             "fullScreen": true,
@@ -798,7 +784,7 @@
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "iconFont": {
@@ -828,7 +814,7 @@
           },
           "title2": "Transferência Bancária",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Quero fazer isso em casa! No conforto do meu sofá, de preferência de chinelos.<br><br>Entre em contato pelo email nicolizunti@gmail.com para os dados de CPF.<br><br>",
+          "caption2": "Quero fazer isso em casa! No conforto do meu sofá, de preferência de chinelos.<br><br>Entre em contato pelo email nicolizunti@gmail.com para os dados de CPF. Mas a gente sempre ta disponivel pelo whatsapp.<br><br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">QUALQUER COISA ME LIGA, MIGA</a> ",
           "media3": {
             "iconFont": {
@@ -843,7 +829,7 @@
           },
           "title3": "Cartão de Crédito",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "<span style=\"line-height: 1.5;\">Dá pra parcelar e pagar por Boleto também, acredita?</span><span style=\"line-height: 1.5;\"><br></span><br><span style=\"line-height: 1.5;\">Clica no botãozinho e crie uma conta no mercado pago, você consegue fazer tudinho por lá.</span><br><span style=\"line-height: 1.5;\">É so enviar para o meu usuário mercado pago nicolizunti@gmail.com<br></span><br>",
+          "caption3": "<span style=\"line-height: 1.5;\">Dá pra parcelar e pagar por Boleto também, acredita?</span><span style=\"line-height: 1.5;\"><br></span><br><span style=\"line-height: 1.5;\">É só criar uma conta no&nbsp;</span>www.mercadopago.com.br e clicar nos botõezinhos nos presentes.<span style=\"line-height: 1.5;\"><br></span><br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://www.mercadopago.com.br/money-transfer\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BOTÃOZINHO</a>",
           "media4": {
             "iconFont": {
